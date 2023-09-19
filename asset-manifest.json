@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/WriteWise/static/css/main.2e90c5e4.css",
+    "main.css": "/WriteWise/static/css/main.0399be21.css",
     "main.js": "/WriteWise/static/js/main.cc7654e7.js",
     "static/js/787.7f63e06d.chunk.js": "/WriteWise/static/js/787.7f63e06d.chunk.js",
     "static/media/childcareWelly.png": "/WriteWise/static/media/childcareWelly.1133fe908eba7224b6e8.png",
     "index.html": "/WriteWise/index.html",
-    "main.2e90c5e4.css.map": "/WriteWise/static/css/main.2e90c5e4.css.map",
+    "main.0399be21.css.map": "/WriteWise/static/css/main.0399be21.css.map",
     "main.cc7654e7.js.map": "/WriteWise/static/js/main.cc7654e7.js.map",
     "787.7f63e06d.chunk.js.map": "/WriteWise/static/js/787.7f63e06d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e90c5e4.css",
+    "static/css/main.0399be21.css",
     "static/js/main.cc7654e7.js"
   ]
 }
